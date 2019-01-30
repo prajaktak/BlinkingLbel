@@ -40,7 +40,7 @@
 		03347038A0FC5E6A33F270A4C0684212 /* BlinkingLbel-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "BlinkingLbel-prefix.pch"; sourceTree = "<group>"; };
 		0D7C3514045379ED2F0DDB46F37193FA /* Pods-BlinkingLbel_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-BlinkingLbel_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		305B4F120100CC29147163433527E3B0 /* Pods-BlinkingLbel_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-BlinkingLbel_Example-frameworks.sh"; sourceTree = "<group>"; };
-		327BDCD8BDE4FF5C343BC098035C3F27 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
+		327BDCD8BDE4FF5C343BC098035C3F27 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		32F146E04E202876625FE3F58B8D9A2A /* Pods-BlinkingLbel_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-BlinkingLbel_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		371D37010E550C00887A797D4C0392DD /* Pods-BlinkingLbel_Tests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-BlinkingLbel_Tests-resources.sh"; sourceTree = "<group>"; };
 		42155B77F91469B07264D9779B1119DB /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -56,18 +56,18 @@
 		79A43CA66B982D0316AF302F243E3C0A /* Pods-BlinkingLbel_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-BlinkingLbel_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
 		80B2C2CA3FB91158B765177E1F7424AA /* Pods-BlinkingLbel_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-BlinkingLbel_Example-dummy.m"; sourceTree = "<group>"; };
 		823D27CB51B3A1208FE6D73B02A9A457 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		836218BEEFB9EE0CF80584D83456D252 /* BlinkingLbel.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = BlinkingLbel.framework; path = BlinkingLbel.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		836218BEEFB9EE0CF80584D83456D252 /* BlinkingLbel.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = BlinkingLbel.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		883C17C14771F525736C3FA6538C42B8 /* Pods-BlinkingLbel_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-BlinkingLbel_Example-acknowledgements.plist"; sourceTree = "<group>"; };
-		8CD855E842520201E9BE6C525905F01A /* Pods_BlinkingLbel_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_BlinkingLbel_Example.framework; path = "Pods-BlinkingLbel_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
-		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		990B9A6FFABB0238D8D2C0CA579B52A4 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
+		8CD855E842520201E9BE6C525905F01A /* Pods_BlinkingLbel_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_BlinkingLbel_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		990B9A6FFABB0238D8D2C0CA579B52A4 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		AA16419C41B9E7129C75439C351CB7F4 /* BlinkingLbel.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = BlinkingLbel.modulemap; sourceTree = "<group>"; };
 		B3617F465D972F659F33C888014D4EFD /* Pods-BlinkingLbel_Example-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-BlinkingLbel_Example-resources.sh"; sourceTree = "<group>"; };
 		B4386D56B2D5B88665A09E58F43C0027 /* Pods-BlinkingLbel_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-BlinkingLbel_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		B83D3077DA16DA2B172091EC42638694 /* Pods-BlinkingLbel_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-BlinkingLbel_Example.release.xcconfig"; sourceTree = "<group>"; };
 		BA0917DCB55FE9EB111EB6AC449BAE5C /* BlinkingLbel-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "BlinkingLbel-umbrella.h"; sourceTree = "<group>"; };
-		CC6C768926913683F6A68FC899F0F287 /* BlinkingLbel.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; path = BlinkingLbel.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		CD5E234DB17F97218BEA25101A719514 /* Pods_BlinkingLbel_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_BlinkingLbel_Tests.framework; path = "Pods-BlinkingLbel_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		CC6C768926913683F6A68FC899F0F287 /* BlinkingLbel.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; path = BlinkingLbel.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		CD5E234DB17F97218BEA25101A719514 /* Pods_BlinkingLbel_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_BlinkingLbel_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		D6DFF15000AFE2A371BF499E7AFDA808 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		D9B0D6480B1687C55BECA6DE7097119A /* Pods-BlinkingLbel_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-BlinkingLbel_Example.modulemap"; sourceTree = "<group>"; };
 		E34877F3BF1FE7C24B53B22DBEB4B5CF /* Pods-BlinkingLbel_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-BlinkingLbel_Tests-dummy.m"; sourceTree = "<group>"; };
@@ -321,6 +321,11 @@
 			attributes = {
 				LastSwiftUpdateCheck = 0930;
 				LastUpgradeCheck = 0930;
+				TargetAttributes = {
+					08F45DBFE71ED7354A99CE885F7CBE3B = {
+						LastSwiftMigration = 1010;
+					};
+				};
 			};
 			buildConfigurationList = 2D8E8EC45A3A1A1D94AE762CB5028504 /* Build configuration list for PBXProject "Pods" */;
 			compatibilityVersion = "Xcode 3.2";
@@ -433,7 +438,7 @@
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
@@ -561,8 +566,7 @@
 				MTL_FAST_MATH = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRIP_INSTALLED_PRODUCT = NO;
-				SWIFT_COMPILATION_MODE = wholemodule;
-				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
 				SWIFT_VERSION = 4.2;
 				SYMROOT = "${SRCROOT}/../build";
 			};
@@ -592,7 +596,7 @@
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_PRODUCT = YES;
 				VERSIONING_SYSTEM = "apple-generic";
