@@ -1,0 +1,6 @@
+framework module BlinkingLbel {
+  umbrella header "BlinkingLbel-umbrella.h"
+
+  export *
+  module * { export * }
+}

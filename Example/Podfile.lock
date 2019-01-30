@@ -1,0 +1,16 @@
+PODS:
+  - BlinkingLbel (0.1.0)
+
+DEPENDENCIES:
+  - BlinkingLbel (from `../`)
+
+EXTERNAL SOURCES:
+  BlinkingLbel:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  BlinkingLbel: 610be7ac51500fdfa9f884a919baba7fad5de57c
+
+PODFILE CHECKSUM: 54a22b50cccb3cc46c835d989be7599d4b0973b6
+
+COCOAPODS: 1.5.3
