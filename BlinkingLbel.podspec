@@ -21,7 +21,7 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/prajaktak/BlinkingLbel'
+  s.homepage         = 'https://github.com/prajaktak/BlinkingLble'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'prajaktak' => 'prachee.j@gmnail.com' }
@@ -30,10 +30,10 @@ TODO: Add long description of the pod here.
 
   s.ios.deployment_target = '8.0'
 
-  s.source_files = 'BlinkingLbel/Classes/**/*'
+  s.source_files = 'BlinkingLble/Classes/**/*'
   
   # s.resource_bundles = {
-  #   'BlinkingLbel' => ['BlinkingLbel/Assets/*.png']
+  #   'BlinkingLbel' => ['BlinkingLble/Assets/*.png']
   # }
 
   # s.public_header_files = 'Pod/Classes/**/*.h'

@@ -1,5 +1,6 @@
 import XCTest
-import BlinkingLbel
+import Pods_BlinkingLbel_Example
+//import BlinkingLbel
 
 class Tests: XCTestCase {
     
